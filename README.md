@@ -1,2 +1,2 @@
 # cssGrid
-Project made in the Course CSSGRID - Simplifying Layouts from Alura Courses.
+Project - Course CSSGRID - Simplifying Layouts from Alura Courses.
